@@ -63,8 +63,6 @@ public class Dag12 : ISolution
             }
         }
 
-        
-
         Console.WriteLine(flattenedCategories.Count);
     }
 }
