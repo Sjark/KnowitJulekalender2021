@@ -1,4 +1,4 @@
-﻿namespace KnowitJulekalender2021;
+﻿namespace KnowitJulekalender2021.Dag18;
 
 public class Dag18 : ISolution
 {
